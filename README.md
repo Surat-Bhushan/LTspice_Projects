@@ -2,12 +2,12 @@
 
 This repository documents the circuit designs and simulations I developed using **LTspice** during my undergraduate electronics laboratory course and beyond. 
 
-## 📄 Experiment Report
+##  Experiment Report
 The report contains the circuit designs, simulation results, and detailed analysis of the experiments performed during my undergraduate course.
 
 **[View the Complete Experiment Report (Google Drive)](https://drive.google.com/file/d/155gqJaDdtTbnMsLGn4Wr8mlyDrI5g5pO/view?usp=sharing)**
 
-## 🧪 Experiments
+##  Experiments
 
 The repository contains LTspice design files for the following experiments:
 
