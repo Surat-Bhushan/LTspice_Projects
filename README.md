@@ -13,9 +13,9 @@ The repository contains LTspice design files for the following experiments:
 
 | No. | Experiment |
 |:---:|---|
-| 1 | Introduction to SPICE and Basic Circuit Simulation |
-| 2 | MOSFET Model Parameter Extraction for 180 nm Technology |
-| 3 | BJT Single-Stage Amplifier |
+| 1 | Introduction to SPICE and Basic Circuit Simulation ( a)Diode and b)RC Ckt analysis) |
+| 2 | MOSFET Model Parameter Extraction for 180 nm Technology (gm, ro, uncox, vt) |
+| 3 | BJT Parameter Extraction (gm, ro) and Single-Stage CE Amplifier |
 | 4 | BJT Common-Base (CB) and Common-Collector (CC) Amplifiers |
 | 5 | Common-Source (CS) Amplifier with Resistive Load |
 | 6 | Common-Source (CS) Amplifier with PMOS Current Source Load |
