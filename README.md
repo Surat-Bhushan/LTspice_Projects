@@ -23,4 +23,4 @@ The repository contains LTspice design files for the following experiments:
 | 8 | Current Mirrors |
 | 9 | Common-Source Amplifier with Current Mirror Load and BJT Differential Amplifier |
 | 10 | BJT Differential Pair with Active Load and MOS Differential Pair |
-## The model file used for MOSFETs (tsmc180.lib) is also attached.
+#### The model file used for MOSFETs (tsmc180.lib) is also attached.
