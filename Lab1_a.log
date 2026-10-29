@@ -1,0 +1,20 @@
+LTspice 26.0.2 for MacOS
+Circuit: /Users/suratbhushan/Documents/LTspice/1.rc_diode/Lab1_a.net
+Start Time: Wed Sep 23 19:02:51 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 0
+method = trap
+.OP point found by inspection.
+.step temp=0°
+.step temp=25°
+.step temp=50°
+.step temp=75°
+.step temp=100°
+Total elapsed time: 0.327 seconds.
+
+Files loaded:
+/Users/suratbhushan/Documents/LTspice/1.rc_diode/Lab1_a.net
+/Users/suratbhushan/Library/Application Support/LTspice/Bottles/ltspice/drive_c/users/crossover/AppData/Local/LTspice/lib/cmp/standard.dio
+
